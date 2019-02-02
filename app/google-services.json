@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321779936588",
+    "firebase_url": "https://popularmovie-2496b.firebaseio.com",
+    "project_id": "popularmovie-2496b",
+    "storage_bucket": "popularmovie-2496b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321779936588:android:9d8f2d1794c2b303",
+        "android_client_info": {
+          "package_name": "udacity.popular_movie_stage1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321779936588-nk45q3fr8i1d60grvjb1v6ql2kjlqn2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "udacity.popular_movie_stage1",
+            "certificate_hash": "93f3549b9c5f977b8bc6216e535b6596e3dd4392"
+          }
+        },
+        {
+          "client_id": "321779936588-vo74q9tpgseutgcqv8itkq686ilf67ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EXOV08JYmMldwganAKouLAh_aga47PI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321779936588-vo74q9tpgseutgcqv8itkq686ilf67ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
